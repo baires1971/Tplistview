@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/mnuSalir"
+        android:icon="@drawable/ic_salir"
+        android:title="@string/mnuSalir"
+        android:orderInCategory="100"
+        app:showAsAction="withText"
+        />
+    <item android:id="@+id/mnurefresh"
+        android:orderInCategory="101"
+        android:icon="@drawable/ic_new_refresh"
+        app:showAsAction="always"
+        />
+
+</menu>

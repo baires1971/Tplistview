@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Tplistview</string>
+    <string name="mnuSalir">Salir</string>
+    <string name="app_nombre">Zmail</string>
+    <string name="mnuOprimir">Oprimir</string>
+    <string-array name="arrayremitente">
+        <item>Roberto F. REGALADO</item>
+        <item>Simona N. ALVAREZ</item>
+        <item>Lucas M. PEREZ</item>
+        <item>Cecilia M. NAVARRO</item>
+        <item>Hugo M. SANCHEZ</item>
+        <item>Roberto F. REGALADO</item>
+        <item>Simona N. ALVAREZ</item>
+        <item>Lucas M. PEREZ</item>
+        <item>Cecilia M. NAVARRO</item>
+        <item>Hugo M. SANCHEZ</item>
+        <item>Roberto F. REGALADO</item>
+        <item>Simona N. ALVAREZ</item>
+        <item>Lucas M. PEREZ</item>
+        <item>Cecilia M. NAVARRO</item>
+        <item>Hugo M. SANCHEZ</item>
+        <item>Roberto F. REGALADO</item>
+        <item>Simona N. ALVAREZ</item>
+        <item>Lucas M. PEREZ</item>
+        <item>Cecilia M. NAVARRO</item>
+        <item>Hugo M. SANCHEZ</item>
+    </string-array>
+    <string-array name="arrayemail">
+        <item>Roberto@gmail.com</item>
+        <item>Simona@gmail.com</item>
+        <item>Lucas@gmail.com</item>
+        <item>Cecilia@gmail.com</item>
+        <item>Hugo@gmail.com</item>
+        <item>Roberto@gmail.com</item>
+        <item>Simona@gmail.com</item>
+        <item>Lucas@gmail.com</item>
+        <item>Cecilia@gmail.com</item>
+        <item>Hugo@gmail.com</item>
+        <item>Roberto@gmail.com</item>
+        <item>Simona@gmail.com</item>
+        <item>Lucas@gmail.com</item>
+        <item>Cecilia@gmail.com</item>
+        <item>Hugo@gmail.com</item>
+        <item>Roberto@gmail.com</item>
+        <item>Simona@gmail.com</item>
+        <item>Lucas@gmail.com</item>
+        <item>Cecilia@gmail.com</item>
+        <item>Hugo@gmail.com</item>
+    </string-array>
+
+    <string-array name="arrayasunto">
+        <item>Pedido cotizacion de compra</item>
+        <item>Solicitud listado de ventas</item>
+        <item>Consulta programacion mobil</item>
+        <item>Cronograma de pagos</item>
+        <item>Felicitaciones por concurso</item>
+        <item>Pedido cotizacion de compra</item>
+        <item>Solicitud listado de ventas</item>
+        <item>Consulta programacion mobil</item>
+        <item>Cronograma de pagos</item>
+        <item>Felicitaciones por concurso</item>
+        <item>Pedido cotizacion de compra</item>
+        <item>Solicitud listado de ventas</item>
+        <item>Consulta programacion mobil</item>
+        <item>Cronograma de pagos</item>
+        <item>Felicitaciones por concurso</item>
+        <item>Pedido cotizacion de compra</item>
+        <item>Solicitud listado de ventas</item>
+        <item>Consulta programacion mobil</item>
+        <item>Cronograma de pagos</item>
+        <item>Felicitaciones por concurso</item>
+    </string-array>
+    <string-array name="arraycontenido">
+        <item> <p align = "center"> Estamos biendo la posibilidad  de comprar toda una nueva <br/>
+         linea de computadoras personales para incrementar la potencialidad que estamos incrementando <br/>
+            diariamente en el local de ventas de la ciudad de santa rosa </p> </item>
+        <item> <p align = "center"> Por la presente tengo a bien solicitarte que en un tiempo prudencial <br/>
+            dispongas la remision de los listados de ventas de todas las sucursales de la region sur <br/>
+            si aun no estas confeccionadas asigna a todo tu personal para dicha tarea en forma urgente </p> </item>
+        <item><p align = "center"> Estimado profesor estoy tratando de realizar el trabajo practico <br/>
+            Con la ayuda de dio y los ejemplos me parece que no alcanzan para poder hacerlo <br/>
+            Espero que el prototipo del programa que le mando este bien codificado</p></item>
+        <item><p align = "center"> El cronograma de pago de todos los empleados publicos de la categoria 2 <br/>
+            se efectivizara a partir de la primera semana de cada mes <br/>
+            segun lo dispuesto por la autoridad administrativa competente en el tema</p></item>
+        <item><p align = "center">Usted ha sido seleccionado como ganador el presente concurso de programacion<br/>
+               podra pasar por nuestras sucursales a partir de la semana proxima en horario de comercio <br/>
+               a los efectos de hacerle entrega del mencionado premio </p> </item>
+        <item> <p align = "center"> Estamos biendo la posibilidad  de comprar toda una nueva <br/>
+         linea de computadoras personales para incrementar la potencialidad que estamos incrementando <br/>
+            diariamente en el local de ventas de la ciudad de santa rosa </p> </item>
+        <item> <p align = "center"> Por la presente tengo a bien solicitarte que en un tiempo prudencial <br/>
+            dispongas la remision de los listados de ventas de todas las sucursales de la region sur <br/>
+            si aun no estas confeccionadas asigna a todo tu personal para dicha tarea en forma urgente </p> </item>
+        <item><p align = "center"> Estimado profesor estoy tratando de realizar el trabajo practico <br/>
+            Con la ayuda de dio y los ejemplos me parece que no alcanzan para poder hacerlo <br/>
+            Espero que el prototipo del programa que le mando este bien codificado</p></item>
+        <item><p align = "center"> El cronograma de pago de todos los empleados publicos de la categoria 2 <br/>
+            se efectivizara a partir de la primera semana de cada mes <br/>
+            segun lo dispuesto por la autoridad administrativa competente en el tema</p></item>
+        <item><p align = "center">Usted ha sido seleccionado como ganador el presente concurso de programacion<br/>
+               podra pasar por nuestras sucursales a partir de la semana proxima en horario de comercio <br/>
+               a los efectos de hacerle entrega del mencionado premio </p> </item>
+        <item> <p align = "center"> Estamos biendo la posibilidad  de comprar toda una nueva <br/>
+         linea de computadoras personales para incrementar la potencialidad que estamos incrementando <br/>
+            diariamente en el local de ventas de la ciudad de santa rosa </p> </item>
+        <item> <p align = "center"> Por la presente tengo a bien solicitarte que en un tiempo prudencial <br/>
+            dispongas la remision de los listados de ventas de todas las sucursales de la region sur <br/>
+            si aun no estas confeccionadas asigna a todo tu personal para dicha tarea en forma urgente </p> </item>
+        <item><p align = "center"> Estimado profesor estoy tratando de realizar el trabajo practico <br/>
+            Con la ayuda de dio y los ejemplos me parece que no alcanzan para poder hacerlo <br/>
+            Espero que el prototipo del programa que le mando este bien codificado</p></item>
+        <item><p align = "center"> El cronograma de pago de todos los empleados publicos de la categoria 2 <br/>
+            se efectivizara a partir de la primera semana de cada mes <br/>
+            segun lo dispuesto por la autoridad administrativa competente en el tema</p></item>
+        <item><p align = "center">Usted ha sido seleccionado como ganador el presente concurso de programacion<br/>
+               podra pasar por nuestras sucursales a partir de la semana proxima en horario de comercio <br/>
+               a los efectos de hacerle entrega del mencionado premio </p> </item>
+        <item> <p align = "center"> Estamos biendo la posibilidad  de comprar toda una nueva <br/>
+         linea de computadoras personales para incrementar la potencialidad que estamos incrementando <br/>
+            diariamente en el local de ventas de la ciudad de santa rosa </p> </item>
+        <item> <p align = "center"> Por la presente tengo a bien solicitarte que en un tiempo prudencial <br/>
+            dispongas la remision de los listados de ventas de todas las sucursales de la region sur <br/>
+            si aun no estas confeccionadas asigna a todo tu personal para dicha tarea en forma urgente </p> </item>
+        <item><p align = "center"> Estimado profesor estoy tratando de realizar el trabajo practico <br/>
+            Con la ayuda de dio y los ejemplos me parece que no alcanzan para poder hacerlo <br/>
+            Espero que el prototipo del programa que le mando este bien codificado</p></item>
+        <item><p align = "center"> El cronograma de pago de todos los empleados publicos de la categoria 2 <br/>
+            se efectivizara a partir de la primera semana de cada mes <br/>
+            segun lo dispuesto por la autoridad administrativa competente en el tema</p></item>
+        <item><p align = "center">Usted ha sido seleccionado como ganador el presente concurso de programacion<br/>
+               podra pasar por nuestras sucursales a partir de la semana proxima en horario de comercio <br/>
+               a los efectos de hacerle entrega del mencionado premio </p> </item>
+    </string-array>
+
+</resources>
